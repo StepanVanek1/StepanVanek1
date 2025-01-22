@@ -1,1 +1,1 @@
-![screenshot](guts.png)
+![screenshot](guts.jpg)
