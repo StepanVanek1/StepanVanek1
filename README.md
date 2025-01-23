@@ -1,1 +1,1 @@
-![til](giantDat.gif)
+![gif](gifs/giantDat.gif)
