@@ -1,3 +1,3 @@
-![gif](gifs/giantDad.gif =444x250)
-![gif](gifs/bakaMiBye.gif =444x250)
-![gif](gifs/danteSpin.gif =444x250)
+<img src="gifs/giantDad.gif" width="444" height="250"/>
+<img src="gifs/bakaMiBye.gif" width="444" height="250"/>
+<img src="gifs/danteSpin.gif" width="444" height="250"/>
